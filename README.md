@@ -9,8 +9,8 @@ ______________________________________________
 
 Please read the article at: https://analyticsindiamag.com/analytics-for-small-medium-scale-quick-service-restaurants/
 
-Authors:
-Mansoor Ali Shaik
-N.Raghuram Reddy
-Koushik Tulasi
-Kaushik Muthu Krishnan S G
+Authors: \n
+Mansoor Ali Shaik \n
+N.Raghuram Reddy \n
+Koushik Tulasi \n
+Kaushik Muthu Krishnan S G \n
