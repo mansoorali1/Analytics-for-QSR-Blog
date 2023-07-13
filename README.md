@@ -1,4 +1,4 @@
-# Analytics-for-QSR
+# Analytics for QSR
 
 Quick Service Restaurants (QSR) face various challenges in their day-to-day operations.Fortunately, with the power of analytics, QSR establishments can overcome these hurdles and drive their businesses to success. In this article, we will explore the different problems faced by QSRs and how analytics can be harnessed to tackle them effectively.
 
