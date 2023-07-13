@@ -1,5 +1,5 @@
 # Analytics-for-QSR-Blog
-________________________
+
 
 This is just a placeholder for the main article.
 ______________________________________________
