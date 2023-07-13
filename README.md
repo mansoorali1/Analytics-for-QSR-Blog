@@ -1,4 +1,4 @@
-# Analytics-for-QSR-Blog
+# Analytics-for-QSR
 
 
 This is just a placeholder for the main article.
