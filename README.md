@@ -7,7 +7,7 @@ ______________________________________________
 
 
 
-Please read the article at: https://analyticsindiamag.com/analytics-for-small-medium-scale-quick-service-restaurants/
+Please read the article at:** https://analyticsindiamag.com/analytics-for-small-medium-scale-quick-service-restaurants/ **
 
 **Authors:**<br>
 Mansoor Ali Shaik <br>
